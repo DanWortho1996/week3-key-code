@@ -1,0 +1,26 @@
+h1{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: red;
+}
+
+.keyCodes{
+    padding: 10px 20px;
+    font-size: larger;
+    font-family: fantasy;
+    font-style: italic;
+}
+
